@@ -1,0 +1,1 @@
+console.log("hello tku 這是ts")
